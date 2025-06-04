@@ -3,7 +3,7 @@
 Esse é um projeto de interface backend de banco de dados, foi feito com o objetivo de aprender os seguintes conceitos 
 - Uso do middleware JDBC
 - DAO (Data Access Object)
-- Sistemas cadastrais com permanência em banco de daados SQL
+- Sistemas cadastrais com permanência em banco de dados SQL
 
 ## Instruções
 
